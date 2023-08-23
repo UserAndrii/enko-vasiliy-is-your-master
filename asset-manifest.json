@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lenko-vasiliy-is-your-master/static/css/main.17377db6.css",
+    "main.js": "/lenko-vasiliy-is-your-master/static/js/main.3585d113.js",
+    "index.html": "/lenko-vasiliy-is-your-master/index.html",
+    "main.17377db6.css.map": "/lenko-vasiliy-is-your-master/static/css/main.17377db6.css.map",
+    "main.3585d113.js.map": "/lenko-vasiliy-is-your-master/static/js/main.3585d113.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17377db6.css",
+    "static/js/main.3585d113.js"
+  ]
+}
